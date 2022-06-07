@@ -14,19 +14,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=Chamindu36&style=flat-square&color=blue" alt="" align="center"/>
 
-## About Me
+<div align="center">
+  <h2>About Me</h2>
+</div>
 
 - :telescope: I’m working as a Senior Software Engineer and contributing to frontend and backend for building web applications.
+  
 - :seedling: Exploring Technical Content Writing.
 
 <br>
 <br>
 
-## Tools and Technologies
-<br><br>
-<br>
-
-<div>
+<div align="center">
+  <h2>Tools and Technologies</h2>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -45,16 +46,11 @@
 </div>
 <br>
 <br>
-<br>
-
-
-
-
-
-## Stats
 
 <div align="center">
-
+<h2>Stats</h2>
+<br>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chamindu36&theme=tokyonight_duo)](https://git.io/streak-stats)
 [![Chamindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamindu36&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -65,14 +61,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindu36&layout=compact&langs_count=8&hide=python)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
- 
-
-
-
 <br>
-
-
-
 <br>
 
 
