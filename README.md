@@ -50,8 +50,7 @@
 <div align="center">
 <h2>Stats</h2>
 <br>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chamindu36&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chamindu36&theme=tokyonight_duo)](https://git.io/streak-stats)
 [![Chamindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamindu36&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
