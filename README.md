@@ -18,7 +18,7 @@
   <h2>About Me</h2>
 </div>
 
-- :telescope: Hi there! I'm a seasoned software engineer with over 3+ years of experience in the industry. I have a passion for building high-quality, scalable, and user-friendly applications. My expertise lies in Java, Node.js and Go technologies and I have a proven track record of delivering successful projects. I'm constantly learning and staying up-to-date with the latest advancements in my field. Feel free to take a look at my portfolio and connect with me on LinkedIn. I'm always open to new opportunities and would love to hear from you!
+- :telescope: Hi there! I'm a Associate Tech lead with over 3+ years of experience in the industry. I have a passion for building high-quality, scalable, and user-friendly applications. My expertise lies in Java, Node.js and Go technologies and I have a proven track record of delivering successful projects. I'm constantly learning and staying up-to-date with the latest advancements in my field. Feel free to take a look at my portfolio and connect with me on LinkedIn. I'm always open to new opportunities and would love to hear from you!
 
 <br>
 
