@@ -22,6 +22,9 @@
 
 <br>
 
+
+[![An image of @chamindu36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chamindu36)](https://holopin.io/@chamindu36)
+
 <div align="center">
   <h2>Tools and Technologies</h2>
   <br>
