@@ -18,7 +18,13 @@
   <h2>About Me</h2>
 </div>
 
-- :telescope: Hi there! I'm a Technical lead/ Full stack and Cloud solutions Developer with 4+ years of experience in the industry. I have a passion for building high-quality, scalable, and user-friendly applications. My expertise lies in Java, AWS, ReactJs, Node.js and Go technologies and I have a proven track record of delivering successful projects. I'm constantly learning and staying up-to-date with the latest advancements in my field. Feel free to take a look at my portfolio and connect with me on LinkedIn. I'm always open to new opportunities and would love to hear from you!
+- :telescope: Hi there!
+
+I am a Technical Lead and Full Stack/Cloud Solutions Developer with over 4 years of industry experience. I specialize in creating high-quality, scalable, and user-friendly applications. My technical expertise spans a wide range of technologies, including Java, AWS, ReactJS, Node.js, and Go. I have a strong track record of successfully delivering projects that meet and exceed client expectations.
+
+I am passionate about continuous learning and staying current with the latest industry advancements. Please feel free to explore my portfolio and connect with me on LinkedIn. I am always open to new opportunities and would love to hear from you!
+
+
 
 <br>
 
